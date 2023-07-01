@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "my name is $1 am leaving in $2 
+my native is $3 my phone number is $4" 
